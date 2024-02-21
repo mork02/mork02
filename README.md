@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm Mork, a passionate software enthusiast with a 
 - About Me: 
 Name: Mork
 Interests: Python, C++, Game Development, Software Engineering
+Using Git to Commit since Feburary 21th.
 Current Focus
 Currently, I'm deeply engrossed in learning C++ intensively. My goal is to master this powerful programming language and leverage its capabilities in various projects, especially in game development and software engineering.
 
