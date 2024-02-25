@@ -1,20 +1,13 @@
-- Mork's Development Journey: 
-Welcome to my GitHub profile! I'm Mork, a passionate software enthusiast with a keen interest in Python and C++. I'm particularly fascinated by game development and software engineering, constantly striving to enhance my skills and delve deeper into the world of programming.
+**👋 Hi there, I'm Mork!**
+**About Me**
+I'm a passionate programmer who loves diving deep into code and exploring new technologies.👨‍💻 I started programming with Python in July 2023 to solve problems and create my own projects.🐍 Since December 2023, I've been shifting my focus to C++, diving into its intricacies and expanding my programming horizons.
 
-- About Me: 
-Name: Mork
-Interests: Python, C++, Game Development, Software Engineering
-Using Git to Commit since Feburary 21th.
-Current Focus
-Currently, I'm deeply engrossed in learning C++ intensively. My goal is to master this powerful programming language and leverage its capabilities in various projects, especially in game development and software engineering.
+**What I Do**
+🌟 Currently trying master C++ and writing code daily to enhance my proficiency.
+📚 Always learning and exploring new concepts in programming.
+💡 Working on exciting projects to apply and strengthen my skills.
 
-- What You'll Find Here: 
-Projects: I'm actively working on projects that demonstrate my proficiency in Python and C++, showcasing my skills in game development and software engineering.
-Learning Resources: I'll be sharing resources, tutorials, and insights that I find helpful in my journey of mastering C++ and advancing in Python development.
-
-- Get in Touch: 
-I'm always open to collaboration, learning opportunities, and connecting with fellow developers. If you share similar interests or have exciting projects in mind, feel free to reach out to me! 
-
-GitHub: github.com/mork02
-Email: COMING SOON
-Let's learn and create amazing things together! 🚀
+**My Interests**
+🎮 Gaming: Enjoying both playing and developing games.
+💻 Coding: Engaging in coding as both a profession and a hobby, continuously exploring new technologies and projects.
+💪 Fitness: Staying active and hitting the gym regularly to maintain a healthy lifestyle.
