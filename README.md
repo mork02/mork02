@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## **👋 Hi there, I'm Mork!**<br><br>
 ### **About Me**<br>I'm a passionate programmer who loves diving deep into code and exploring new technologies.👨‍💻 I started programming with Python in July 2023 to solve problems and create my own projects.🐍 Since December 2023, i've been searching what kind of Programming language fits me the most. <br><br>
-### **What I Do**<br>🌟 Currently trying learn much for my school to absolve my diploma as a programmer.  <br>📚 Always learning and exploring new concepts in programming.  <br>💡 Working on exciting projects to apply and strengthen my skills.  <br><br>
+### **What I Do**<br>🌟 Currently learning to absolve my diploma as a programmer.  <br>📚 Always learning and exploring new concepts in programming.  <br>💡 Working on exciting projects to apply and strengthen my skills.  <br><br>
 ### **My Interests**<br>🎮 Gaming: Enjoying both playing and developing games.  <br>💻 Coding: Engaging in coding as both a profession and a hobby, continuously exploring new technologies and projects.  <br>💪 Fitness: Staying active and hitting the gym regularly to maintain a healthy lifestyle.  <br>
 
 # **💻 Tech Stack**:
